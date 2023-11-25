@@ -59,3 +59,5 @@ After running the script, the model will be trained, and the RMSE (Root Mean Squ
 ## Acknowledgments
 
 - The project utilizes scikit-learn, TensorFlow, and other libraries for machine learning.
+
+- Couldnot Push or Upload the ratings.csv due to fuile upload limit.
